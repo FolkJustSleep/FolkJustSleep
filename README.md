@@ -11,8 +11,8 @@
 ### 🛠️ Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](//img.shields.io/badge/JavaScript-FAE500?logo=javascipt)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![JavaScript](//img.shields.io/badge/JavaScript-FAE500?logo=javascript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
