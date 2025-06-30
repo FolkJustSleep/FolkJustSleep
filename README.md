@@ -6,7 +6,9 @@
 
 = You can call me Folk as my nickname.
 
-= Right now I'm studing at Srinakharinwirot University majoring in computer engineer.
+= Right now I'm studying at Srinakharinwirot University majoring in computer engineer.
+
+- I have an interest about backend developer
 
 ### 🛠️ Tech Stack
 
