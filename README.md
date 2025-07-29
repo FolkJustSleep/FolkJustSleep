@@ -2,13 +2,13 @@
 
 <h2> About Me </h2>
 
-= Hi My name is Kobchok Chuawong.
+= My Fullname is Kobchok Chuawong.
 
 = You can call me Folk as my nickname.
 
-= Right now I'm studying at Srinakharinwirot University majoring in computer engineer.
+= Right now I'm studying at Srinakharinwirot University majoring in computer engineer and will graduate in 2027.
 
-- I have an interest about backend developer
+- I have an interest about backend developer and AI engineer.
 
 ### 🛠️ Tech Stack
 
@@ -18,6 +18,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Locust](https://img.shields.io/badge/Locust-#008000?logo=locust&logoColor=white)
+![Supabase](https://img.shields.io/badge/Docker-2D68C4?logo=docker&logoColor=white)
+
 
 ---
