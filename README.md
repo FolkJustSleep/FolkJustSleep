@@ -2,11 +2,11 @@
 
 <h2> About Me </h2>
 
-= My Fullname is Kobchok Chuawong.
+- My Fullname is Kobchok Chuawong.
 
-= You can call me Folk as my nickname.
+- You can call me Folk as my nickname.
 
-= Right now I'm studying at Srinakharinwirot University majoring in computer engineer and will graduate in 2027.
+- Right now I'm studying at Srinakharinwirot University majoring in computer engineer and will graduate in 2027.
 
 - I have an interest about backend developer and AI engineer.
 
