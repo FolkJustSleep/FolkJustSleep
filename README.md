@@ -6,6 +6,8 @@
 
 - You can call me Folk as my nickname.
 
+- DecOps Engineer Intern at NXP
+
 - Right now I'm studying at Srinakharinwirot University majoring in computer engineer and will graduate in 2027.
 
 - I have an interest about backend developer and AI engineer.
